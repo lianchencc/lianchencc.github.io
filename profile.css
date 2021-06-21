@@ -1,0 +1,22 @@
+p{
+  color:white;
+  font-size:24px;
+  text-align: center;
+}
+
+/* 設定文字顏色、大小、位置 */
+
+#name{
+  border-radius:30px;
+  background:#FFD2D2;
+  width:500px;
+  height:30px;
+}
+/* 設定 id為name的文字背景、長寬及邊角弧度 */
+
+table{
+  width: 1000px;
+  margin: 2px;
+  border:2px solid #9C9C9C;
+}
+/* 設定表格寬度、邊界 */
